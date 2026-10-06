@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_id": "INV-101",
+    "vendor": "ABC Ltd",
+    "amount": 85000,
+    "status": "PENDING"
+  },
+  {
+    "invoice_id": "INV-107",
+    "vendor": "Testily Corp",
+    "amount": 142500.0,
+    "status": "COMPLETED"
+  },
+  {
+    "invoice_id": "INV-117",
+    "vendor": "Testilytest Corp",
+    "amount": 142500.0,
+    "status": "COMPLETED"
+  }
+]
