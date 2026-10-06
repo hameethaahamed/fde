@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from data_store import invoices
-from models import Invoice
+from models_day2cr import Invoice
  
 router = APIRouter()
  
